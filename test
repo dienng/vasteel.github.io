@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rand=$((RANDOM % 2))
+echo "random number = $rand"
